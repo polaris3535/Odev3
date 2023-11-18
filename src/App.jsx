@@ -72,7 +72,7 @@ function App() {
       yazar: "Sinan Yüksel",
       yorum_sayisi: 3,
       puan: 4,
-      id: 0,
+      id: 2,
     },
     {
       baslik: "Web Teknolojileri ve Programlama",
@@ -84,30 +84,21 @@ function App() {
     },
 
     {
-      baslik: "Python Programlama Temelleri",
-      url: "www.python.org",
-      yazar: "Ayşe Demir",
-      yorum_sayisi: 10,
-      puan: 4.5,
-      id: 2
-    },
-
-    {
       baslik: "Unity ile Mobil Oyun",
       url: "https://veyselkinaci.vercel.app",
       yazar: "Veysel Kinaci",
       yorum_sayisi: 556,
       puan: 5.0,
-      id: 3
+      id: 0
     },
 
     {
       baslik: "Unity nedir? Unity'nin Avantajları",
       url: "www.canakandemir.com/",
-      yazar: "Can Akan Demir",
+      yazar: "Furkan Atici",
       yorum_sayisi: 12,
       puan: 4.7,
-      id: 4
+      id: 3
     },
     
   ];
